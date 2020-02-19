@@ -7,7 +7,7 @@ years = [2020, 2019, 2018, 2017, 2016, 2014]
 
 {% for y in page.years %}
     <h3 class="year">{{y}}</h3>
-    {% bibliograph -f papers -q @*[year={{y}}]* %}
+    {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
 
 
