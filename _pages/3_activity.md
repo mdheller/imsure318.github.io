@@ -14,6 +14,7 @@ title: Activity
 
 ### Teaching and Supervision
 
+<strong>Semester 1, 2019/2020</strong>: Guest lecture, Information Retrieval and Text Mining course, UiS\\
 <strong>Semester 2, 2017/2018</strong>: Advisor: master thesis on Table Embeddings, UiS\\
 <strong>Semester 2, 2017/2018</strong>: Advisor: master thesis on NLP with Tables, UiS\\
 <strong>Semester 2, 2017/2018</strong>: Teaching assistant, Web Programming course, UiS\\
