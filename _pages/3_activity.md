@@ -37,6 +37,7 @@ title: Activity
 
 ### Talks
 
+<strong>23.04.2020</strong>: I gave an online presentation on "Novel Entity Discovery from Web Tables" at WWW 2020. The work has also been discussed at the [Tech at Bloomberg blog](https://www.techatbloomberg.com/blog/using-tables-to-build-better-knowledge-graphs/).\\
 <strong>20.12.2019</strong>: I was invited to give a talk on my PhD work at [IO data](https://www.io-data.no/), Sandess, Norway. \\
 <strong>21.07.2019</strong>: I gave a tutorial on Web Table Extraction, Retrieval and Augmentation ([Slides](https://github.com/iai-group/webtables-tutorial)) at SIGIR 2019, Paris, France. \\
 <strong>04.10.2019</strong>: I gave an oral presentation on "Auto-completion for Data Cells in Relational Tables" at CIKM 2019, Beijing, China. \\
