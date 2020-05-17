@@ -7,7 +7,8 @@ title: Activity
 
 ### Working Experience
 
-<strong>July.2019 - Feb.2020</strong>: Senior Research Fellow, University of Stavanger, Norway \\
+<strong>Mar.2020 - Present</strong>: Research Scientist at Bloomberg AI, London, UK \\
+<strong>Jul.2019 - Feb.2020</strong>: Senior Research Fellow, University of Stavanger, Norway \\
 <strong>Feb.2019 - May.2019</strong>: Visiting Scholar at Carnegie Mellon University, USA \\
 <strong>Sep.2018 - Dec.2018</strong>: Research Scientist Intern of AI group at Bloomberg, UK
 
