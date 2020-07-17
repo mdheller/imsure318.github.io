@@ -50,6 +50,7 @@ title: Activity
 
 ### Professional Services
 
+PC Member of WSDM 2021 \\
 PC Member of SIGIR 2019, 2020 \\
 PC Member of SDW Workshop 2019 \\
 PC Member of ECIR 2019 
