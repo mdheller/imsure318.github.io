@@ -41,7 +41,7 @@ title: Activity
 <strong>20.12.2019</strong>: I was invited to give a talk on my PhD work at [IO data](https://www.io-data.no/), Sandess, Norway. \\
 <strong>21.07.2019</strong>: I gave a tutorial on Web Table Extraction, Retrieval and Augmentation ([Slides](https://github.com/iai-group/webtables-tutorial)) at SIGIR 2019, Paris, France. \\
 <strong>04.10.2019</strong>: I gave an oral presentation on "Auto-completion for Data Cells in Relational Tables" at CIKM 2019, Beijing, China. \\
-<strong>07.2018</strong>: I I gave three presentations at SIGIR 2018, Ann Arbor, Michigan, U.S.A.  \\
+<strong>07.2018</strong>: I gave three presentations at SIGIR 2018, Ann Arbor, Michigan, U.S.A.  \\
 <strong>04.2018</strong>: I gave an oral presentation on "Ad Hoc Table Retrieval using Semantic Similarity" at WWW 2018, Leon, France.\\
 <strong>08.2017</strong>: I gave an oral presentation on "EntiTables: Smart Assistance for Entity-Focused Tables" at SIGIR 2017, Tokyo, Japan. \\
 <strong>07.2017</strong>: I attended ASSIA'17 summer school at Kyoto, Japan and presented "EntiTables: Smart Assistance for Entity-Focused Tables". \\
