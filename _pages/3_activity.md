@@ -15,7 +15,8 @@ title: Activity
 
 ### Teaching and Supervision
 
-<strong>Semester 1, 2019/2020</strong>: Guest lecture, Information Retrieval and Text Mining course, UiS\\
+<strong>Semester 1, 2020/2021</strong>: Guest lecturer, Information Retrieval and Text Mining course, UiS\\
+<strong>Semester 1, 2019/2020</strong>: Guest lecturer, Information Retrieval and Text Mining course, UiS\\
 <strong>Semester 2, 2017/2018</strong>: Advisor: master thesis on Table Embeddings, UiS\\
 <strong>Semester 2, 2017/2018</strong>: Advisor: master thesis on NLP with Tables, UiS\\
 <strong>Semester 2, 2017/2018</strong>: Teaching assistant, Web Programming course, UiS\\
@@ -37,6 +38,7 @@ title: Activity
 
 ### Talks
 
+<strong>27.08.2020</strong>: I presented "Evaluating Conversational Recommender Systems via User Simulation" at KDD 2020. \\
 <strong>23.04.2020</strong>: I gave an online presentation on "Novel Entity Discovery from Web Tables" at WWW 2020. The work has also been discussed at the [Tech at Bloomberg blog](https://www.techatbloomberg.com/blog/using-tables-to-build-better-knowledge-graphs/).\\
 <strong>20.12.2019</strong>: I was invited to give a talk on my PhD work at [IO data](https://www.io-data.no/), Sandess, Norway. \\
 <strong>21.07.2019</strong>: I gave a tutorial on Web Table Extraction, Retrieval and Augmentation ([Slides](https://github.com/iai-group/webtables-tutorial)) at SIGIR 2019, Paris, France. \\
