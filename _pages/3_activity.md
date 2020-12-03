@@ -38,6 +38,7 @@ title: Activity
 
 ### Talks
 
+<strong>21.10.2020</strong>: I presented "Generating Categories for Sets of Entities" at CIKM 2020 \\
 <strong>27.08.2020</strong>: I presented "Evaluating Conversational Recommender Systems via User Simulation" at KDD 2020. \\
 <strong>23.04.2020</strong>: I gave an online presentation on "Novel Entity Discovery from Web Tables" at WWW 2020. The work has also been discussed at the [Tech at Bloomberg blog](https://www.techatbloomberg.com/blog/using-tables-to-build-better-knowledge-graphs/).\\
 <strong>20.12.2019</strong>: I was invited to give a talk on my PhD work at [IO data](https://www.io-data.no/), Sandess, Norway. \\
@@ -52,10 +53,14 @@ title: Activity
 
 ### Professional Services
 
+PC Member of SIGIR 2019, 2020, 2021 \\
+PC Member of JSW 2021 \\
 PC Member of WSDM 2021 \\
-PC Member of SIGIR 2019, 2020 \\
+PC Member of ACM TOIS 2020 \\
 PC Member of SDW Workshop 2019 \\
-PC Member of ECIR 2019 
+PC Member of ECIR 2019 \\
+Sub-reviewer of WWW 2021 \\
+Sub-reviewer of EACL 2021
 
 
 
