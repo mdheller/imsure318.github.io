@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="909e6139-1d8d-43c3-81e2-a54e7c722e38" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_pages/2_education.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/2_education.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_pages/3_activity.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/3_activity.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -90,8 +89,8 @@
         <entry file="file://$PROJECT_DIR$/_pages/3_activity.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="338">
-                <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+              <first_editor relative-caret-position="383">
+                <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -180,12 +179,6 @@
               <item name="imsure318.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="imsure318.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="imsure318.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="imsure318.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_pages" type="462c0819:PsiDirectoryNode" />
-              <item name="3_activity.md" type="ab9368bb:PsiFileNode" />
             </path>
             <path>
               <item name="imsure318.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -388,8 +381,8 @@
     <entry file="file://$PROJECT_DIR$/_pages/3_activity.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="338">
-            <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+          <first_editor relative-caret-position="383">
+            <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />

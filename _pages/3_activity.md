@@ -23,7 +23,7 @@ title: Activity
 <strong>Semester 1, 2017/2018</strong>: Co-advisor: master project course on Smart Table Demo, UiS\\
 <strong>Semester 2, 2016/2017</strong>: Guest lecture, Web Programming course, UiS\\
 <strong>Semester 2, 2015/2016</strong>: Teaching assistant, Distributed System course, UiS\\
-<strong>Semester 2, 2014/2015</strong>: Co-advisor: bachelor thesis on Heterogeneous Wireless Networks, NUPT 
+<strong>Semester 2, 2014/2015</strong>: Co-advisor: bachelor thesis on Heterogeneous Wireless Networks, NJUPT 
 
 ### Grants and Awards
 
@@ -33,8 +33,8 @@ title: Activity
 <strong>2014 - 2016</strong>: Quota Schema Scholarship of Norway (~200K nok) \\
 <strong>2013 - 2014</strong>: National Scholarship for Graduate Students of China (3.8K US $) \\
 <strong>2012 - 2013</strong>: Nandu Enterprise Outstanding Graduate Scholarship \\
-<strong>2011 - 2012</strong>: Best Student Model of NUPT, Top 1/320 \\
-<strong>2009 - 2014</strong>: NUPT scholarship for Undergraduates and Graduates, received annually
+<strong>2011 - 2012</strong>: Best Student Model of NJUPT, Top 1/320 \\
+<strong>2009 - 2014</strong>: NJUPT scholarship for Undergraduates and Graduates, received annually
 
 ### Talks
 
