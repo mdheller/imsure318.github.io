@@ -54,6 +54,7 @@ title: Activity
 ### Professional Services
 
 PC Member of SIGIR 2019, 2020, 2021 \\
+PC Member of SIGKDD 2021 \\
 PC Member of JSW 2021 \\
 PC Member of WSDM 2021 \\
 PC Member of ACM TOIS 2020 \\
